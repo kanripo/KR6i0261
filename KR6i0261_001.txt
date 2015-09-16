@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:19.293920
+#+DATE: 2015-08-30 20:14:21.632572
 #+TITLE: 佛說伅真陀羅所問如來三昧經
 #+PROPERTY: CBETA_ID T15n0624
 #+PROPERTY: ID KR6i0261
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 624
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0261_T_000-0348b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0261_T_001-0348b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.624[No.625]¶
-
- 《佛說伅真陀羅所問如來三昧¶
+No. 624 [No. 625]¶
+《佛說伅真陀羅所問如來三昧¶
 經》卷上¶
 ¶
 後漢月氏三藏支婁迦讖譯¶
@@ -312,7 +311,7 @@ No.624[No.625]¶
 舞一切低昂皆向佛。譬若如人之作禮。比丘¶
 比丘尼。優婆塞優婆夷。諸一一尊。比丘及新¶
 發意菩薩。其在會者。諸天龍鬼神一切。自於¶
-坐皆踊躍。𡶅峨其身而欲起舞。提無離菩薩¶
+坐皆踊躍。[山*叵]峨其身而欲起舞。提無離菩薩¶
 問。尊聲聞已離諸欲。悉得八惟務禪。盡見四¶
 諦。何緣復舞。諸尊聲聞答言。吾等不得自在¶
 用是琴聲。於坐不能忍其音。亦不能制其心¶
