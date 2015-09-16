@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說伅真陀羅所問如來三昧經
+#+DATE: 2015-08-30 20:14:19.666138
+#+PROPERTY: JUAN 0
